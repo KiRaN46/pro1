@@ -1,0 +1,70 @@
+{
+	"profiles":[
+		{
+			"basics":{
+				"name":"kiran K",
+				"role":"MERN developer",
+				"email":"kiran@gmail.com",
+				"gender":"male",
+				"mobile":"8185999999",
+				"address":"Hyd"
+			},
+			"summary":[
+				"Have sound knowledge in programming languages c,c++,Java,Python.",
+				"Have experience in web developing using HTML,CSS,bootstrap,React.",
+				"Started working on Competetive coding."
+			],
+			"education":[
+				{
+					"degree":"Engineering",
+					"institute":"UCEK-JNTUK",
+					"percentage":"78%"
+				},
+				{
+					"degree":"Diploma",
+					"institute":"A.A.N.M & V.V.R.S.R polytechnic",
+					"percentage":"93%"
+				},
+				{
+					"degree":"SSC",
+					"institute":"BPS",
+					"percentage":"9.5GPA"
+				}
+			]
+
+		},
+		{
+			"basics":{
+				"name":"Raj K",
+				"role":"MERN developer",
+				"email":"Raj@gmail.com",
+				"gender":"male",
+				"mobile":"8185099999",
+				"address":"Hyd"
+			},
+			"summary":[
+				"Have sound knowledge in programming languages c,c++,Java,Python.",
+				"Have experience in web developing using HTML,CSS,bootstrap,React.",
+				"Started working on Dynamic programming."
+			],
+			"education":[
+				{
+					"degree":"Engineering",
+					"institute":"UCEK-JNTUK",
+					"percentage":"78%"
+				},
+				{
+					"degree":"Diploma",
+					"institute":"A.A.N.M & V.V.R.S.R polytechnic",
+					"percentage":"93%"
+				},
+				{
+					"degree":"SSC",
+					"institute":"BPS",
+					"percentage":"9.5GPA"
+				}
+			]
+
+		}
+	]
+}
